@@ -1,1 +1,1 @@
-# hpc
+This GitHub repository contains a series of Jupyter notebooks integral to my project on utilizing hardware performance counters for malware detection. Within this repository, you will find the methodologies for dataset creation and the training processes are included.
